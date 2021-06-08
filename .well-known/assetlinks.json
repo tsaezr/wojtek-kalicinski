@@ -2,8 +2,8 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "cl.multicaja.alimentacion",
+    "package_name": "cl.klap.ali.dummyapplication",
     "sha256_cert_fingerprints":
-    ["84:3B:43:D7:26:93:4E:47:3C:47:8A:B4:81:54:FA:9B:4F:A0:B9:21:71:A0:34:0A:74:D5:45:18:77:F9:E4:EC"]
+    ["86:F6:50:BC:D4:D7:F7:65:BA:42:81:5A:01:D1:31:4C:AA:A8:22:A6:0B:02:0D:B5:4D:77:12:90:7D:46:A4:4C"]
   }
 }]
