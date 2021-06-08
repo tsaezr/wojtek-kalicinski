@@ -2,8 +2,8 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.recipe_app",
+    "package_name": "cl.klap.ali.dummyapplication",
     "sha256_cert_fingerprints":
-    ["B6:94:02:F5:90:8A:DA:79:F4:B7:E9:12:A0:CA:57:35:FB:88:45:A9:4B:09:84:83:BA:CB:AE:ED:EB:91:C9:1E"]
+    ["86:F6:50:BC:D4:D7:F7:65:BA:42:81:5A:01:D1:31:4C:AA:A8:22:A6:0B:02:0D:B5:4D:77:12:90:7D:46:A4:4C"]
   }
 }]
